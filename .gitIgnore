@@ -1,0 +1,11 @@
+# Ignore MP3 files
+*.mp3
+
+# Ignore MP4 files
+*.mp4
+
+# Ignore ZIP files
+*.zip
+
+# Ignore RAR files
+*.rar
