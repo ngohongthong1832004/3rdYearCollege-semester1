@@ -1,0 +1,19 @@
+LAB 06 - Time Series
+
+Sinh viên đọc hướng dẫn phân tích chuỗi thời gian tại link sau:
+	https://wesmckinney.com/book/time-series
+
+----------------------------------------------------------------------------------
+Bài tập
+
+Đọc và viết lại các ví dụ sau vào file notebook (Example 13.1 --> 13.5). Với mỗi ví dụ trình bày như sau:
+	1. Giới thiệu bộ dữ liệu
+	2. Giới thiệu mục tiêu của ví dụ
+	3. Viết lại các câu hỏi để thực hiện ví dụ. Với mỗi câu viết mã python tương ứng.
+		
+LINK:
+	https://wesmckinney.com/book/data-analysis-examples#whetting_usa_gov
+----------------------------------------------------------------------------------
+Format nộp bài:
+	- Làm 5 ví dụ vào 1 file notebook
+	- Format đặt tên: <msv>_<hoten>_ex6.ipynb
